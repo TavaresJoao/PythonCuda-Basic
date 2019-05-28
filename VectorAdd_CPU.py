@@ -20,4 +20,4 @@ start = time.time()
 C = VectorAdd(A, B)
 vector_add_time = time.time() - start
 
-print ("%f" % vector_add_time)
+print ("%s" % vector_add_time)
